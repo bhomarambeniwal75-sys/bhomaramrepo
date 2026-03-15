@@ -29,7 +29,7 @@ int main(){
     double x;
     int n;
 
-    cout<<myPow(2, 5);
+    cout<<myPow(2, 10);
 
     return 0;
 }
